@@ -1,0 +1,25 @@
+{
+  "name": "next-js-dev-env",
+  "version": "1.0.0",
+  "description": "Next JS Dev Env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imshengli/next-js-dev-env.git"
+  },
+  "author": "zhangshengli@imshengli.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imshengli/next-js-dev-env/issues"
+  },
+  "homepage": "https://github.com/imshengli/next-js-dev-env#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0"
+  }
+}
