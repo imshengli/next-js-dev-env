@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imshengli/next-js-dev-env.git"
+    "url": "git+https://github.com/imshengli/next-js-dev-env-with-gulp.git"
   },
   "author": "zhangshengli@imshengli.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imshengli/next-js-dev-env/issues"
+    "url": "https://github.com/imshengli/next-js-dev-env-with-gulp/issues"
   },
-  "homepage": "https://github.com/imshengli/next-js-dev-env#readme",
+  "homepage": "https://github.com/imshengli/next-js-dev-env-with-gulp#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
